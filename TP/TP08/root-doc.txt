@@ -1,0 +1,5 @@
+Contenidos
+==========
+  - El paquete [[practico]] contiene una función main.
+  - El paquete [[rational]] contiene la definición de la clase Rational
+

@@ -1,0 +1,5 @@
+/** Este es el Práctico 7
+  *
+  * El paquete [[practico]] contiene la función main, y distintos métodos a implementar.
+  *
+  */

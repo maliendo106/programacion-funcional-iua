@@ -1,0 +1,40 @@
+# Compiled Java class files
+*.class
+
+# C/C++ artifacts
+*.o
+a.out
+
+# Maven/sbt
+target/
+dist/
+
+# Unnamed/temp jupyter notebooks
+Untitled*ipynb
+Demo*.ipynb
+.ipynb_checkpoints
+
+# IDEs
+.idea
+.vscode
+.classpath
+.project
+.settings
+
+# Metals
+.metals
+.bloop
+.bsp
+metals.sbt
+
+# jupyter book
+_build/
+
+# stack/Haskell
+.stack-work/
+stack.yaml.lock
+TP*.cabal
+
+# Scala/SBT specific
+.scala-build/
+

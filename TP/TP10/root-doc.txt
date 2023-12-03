@@ -1,0 +1,5 @@
+/** Este es el Práctico 10
+  *
+  * El paquete [[practico]] contiene una función main.
+  *
+  */

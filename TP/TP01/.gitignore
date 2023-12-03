@@ -1,0 +1,4 @@
+.stack-work/
+TP01.cabal
+stack.yaml.lock
+*~
